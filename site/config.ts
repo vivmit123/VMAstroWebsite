@@ -51,18 +51,18 @@ export interface SiteConfig {
 }
 
 export const SITE: SiteConfig = {
-  author: 'Astronaut',
-  desc: 'Developer and designer building premium web experiences.',
-  title: 'Spaceship',
+  author: 'Vivek Mittal',
+  desc: 'Writer, Lawyer, Dad.',
+  title: 'Vivek Mittal',
   ogImage: 'og.png',
   lang: 'en-US',
   base: '/',
-  website: 'https://spaceship-one.vercel.app',
+  website: 'https://vivekmittal.com',
   social: {
-    x: 'https://x.com/astronaut',
-    github: 'https://github.com/astronaut',
-    telegram: 'https://t.me/astronaut',
-    facebook: 'https://facebook.com/astronaut',
+    bluesky: 'https://x.com/vivmit',
+    github: 'https://github.com/vivmit123',
+    telegram: 'https://t.me/vivmit',
+    facebook: 'https://facebook.com/vivmit',
   },
   googleAnalyticsId: '', // Example: 'G-XXXXXXXXXX'
   homeHeroDescription:
@@ -72,7 +72,7 @@ export const SITE: SiteConfig = {
 
   // Homepage post counts
   featuredPostsCount: 3,
-  latestPostsCount: 3,
+  latestPostsCount: 0,
 
   // Homepage projects
   homeProjects: {
@@ -82,7 +82,7 @@ export const SITE: SiteConfig = {
 
   // CTA (Call-to-Action) block for blog posts
   cta: {
-    enabled: true,
+    enabled: false,
     filePath: 'site/cta.md',
   },
 
