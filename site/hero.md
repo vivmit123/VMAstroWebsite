@@ -1,4 +1,4 @@
-# I'm {author}, developer and designer.
+# I'm {author}, writer, lawyer, and dad.
 
 Building premium web experiences with Astro, Svelte, and Tailwind.
 Focused on performance, aesthetics, and clean code.
