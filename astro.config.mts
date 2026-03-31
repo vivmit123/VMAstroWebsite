@@ -1,4 +1,5 @@
 // @ts-check
+import type { PluginOption } from 'vite';
 import { defineConfig } from 'astro/config';
 import svelte from '@astrojs/svelte';
 import mdx from '@astrojs/mdx';
@@ -85,15 +86,9 @@ export default defineConfig({
       entrypoint: 'astro/assets/services/sharp',
     },
   },
-
-  vite: {
+vite: {
+    // @ts-expect-error - Tailwind v4 plugin types may differ slightly from Astro's internal Vite types, but they are compatible at runtime
     plugins: [tailwindcss()],
-    resolve: {
-      alias: {
-        '@/config': path.resolve(__dirname, './site/config.ts'),
-        '@/site-assets': path.resolve(__dirname, './site/assets'),
-        '@': path.resolve(__dirname, './src'),
-      },
-    },
   },
 });
+//npm list vite rollup @astrojs/tailwind
