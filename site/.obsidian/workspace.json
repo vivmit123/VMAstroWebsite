@@ -11,12 +11,14 @@
             "id": "7918d9b4fe5b9799",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/profile_photo.jpg"
+                "file": "content/about/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "profile_photo"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/profile_photo.jpg",
+                "file": "content/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for profile_photo"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/profile_photo.jpg",
+                "file": "content/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from profile_photo"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/profile_photo.jpg",
+                "file": "content/about/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of profile_photo"
+              "title": "Outline of index"
             }
           }
         ]
@@ -183,8 +185,8 @@
   },
   "active": "7918d9b4fe5b9799",
   "lastOpenFiles": [
-    "assets/_profile_photo.png",
     "assets/profile_photo.jpg",
+    "assets/_profile_photo.png",
     "content/about/index.md",
     "content/about/_index.md",
     "assets/Pasted image 20240219182911.png"
