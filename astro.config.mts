@@ -86,7 +86,6 @@ export default defineConfig({
     },
   },
 vite: {
-    // @ts-expect-error - Tailwind v4 plugin types may differ slightly from Astro's internal Vite types, but they are compatible at runtime
     plugins: [tailwindcss()],
   },
 });
