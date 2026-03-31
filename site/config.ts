@@ -61,7 +61,7 @@ export const SITE: SiteConfig = {
   social: {
     bluesky: 'https://bsky.app/profile/vivmit.bsky.social',
     instagram: 'https://instagram.com/vivmit',
-    facebook: 'https://facebook.com/vivmit',
+    // facebook: 'https://facebook.com/vivmit1',
   },
   googleAnalyticsId: 'G-TLZ1WFVTH3', // Example: 'G-XXXXXXXXXX'
   homeHeroDescription:
