@@ -70,8 +70,8 @@ export const SITE: SiteConfig = {
   projectsDescription: 'My writing.',
 
   // Homepage post counts
-  featuredPostsCount: 1,
-  latestPostsCount: 1,
+  featuredPostsCount: 0,
+  latestPostsCount: 0,
 
   // Homepage projects
   homeProjects: {
