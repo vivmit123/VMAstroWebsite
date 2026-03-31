@@ -7,7 +7,6 @@ import { getPublishedPosts, getPostSlug } from '@/lib/utils/posts';
 import { SITE } from '@/config';
 import { Image } from 'astro:assets';
 import profilePhoto from '@/site-assets/profile_photo.jpg';
-import { getLangFlag } from '@/lib/utils/lang';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 import { parseMarkdown } from '@/lib/simple-markdown';
@@ -253,7 +252,7 @@ const appearances = (await getCollection('appearances'))
     }
 
     <!-- 5. Talks / Appearances -->
-    <section>
+    <!--section>
       <div class="flex items-baseline justify-between mb-8 sm:mb-12">
         <h2 class="text-xs font-bold uppercase tracking-[0.2em] text-muted-foreground">
           Talks & Appearances
@@ -300,7 +299,7 @@ const appearances = (await getCollection('appearances'))
           ))
         }
       </div>
-    </section>
+    </section!-->
   </div>
 </Layout>
 

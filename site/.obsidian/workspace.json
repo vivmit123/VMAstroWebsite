@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/appearances/_russian-appearance.md",
+                "file": "content/projects/_spaceship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_russian-appearance"
+              "title": "_spaceship"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/appearances/_russian-appearance.md",
+                "file": "content/projects/_spaceship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _russian-appearance"
+              "title": "Backlinks for _spaceship"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/appearances/_russian-appearance.md",
+                "file": "content/projects/_spaceship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _russian-appearance"
+              "title": "Outgoing links from _spaceship"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/appearances/_russian-appearance.md",
+                "file": "content/projects/_spaceship.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _russian-appearance"
+              "title": "Outline of _spaceship"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "7918d9b4fe5b9799",
   "lastOpenFiles": [
+    "content/projects/_template.md",
+    "content/projects/_spaceship.md",
+    "content/appearances/_russian-appearance.md",
     "content/appearances/_podcast.md",
     "content/appearances/_astroconf.md",
-    "content/projects/_spaceship.md",
     "content/projects/_planetaria.md",
     "content/posts/_test-series-3.md",
     "content/posts/_test-series-2.md",
