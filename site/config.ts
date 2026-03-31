@@ -59,25 +59,24 @@ export const SITE: SiteConfig = {
   base: '/',
   website: 'https://vivekmittal.com',
   social: {
-    bluesky: 'https://x.com/vivmit',
-    github: 'https://github.com/vivmit123',
-    telegram: 'https://t.me/vivmit',
+    bluesky: 'https://bsky.app/profile/vivmit.bsky.social',
+    instagram: 'https://instagram.com/vivmit',
     facebook: 'https://facebook.com/vivmit',
   },
-  googleAnalyticsId: '', // Example: 'G-XXXXXXXXXX'
+  googleAnalyticsId: 'G-TLZ1WFVTH3', // Example: 'G-XXXXXXXXXX'
   homeHeroDescription:
-    'Building premium web experiences with Astro, Svelte, and Tailwind. Focused on performance, aesthetics, and clean code. I am currently working on open-source tools and sharing my journey through writing.',
-  blogDescription: 'A collection of thoughts, tutorials, and general web discovery.',
-  projectsDescription: 'Things I’ve built that I’m proud of. Many of them are open-source.',
+    'Writing science fiction and essays fighting for immigrants rights and father to two wonderful human beings.',
+  blogDescription: 'Some thoughts.',
+  projectsDescription: 'My writing.',
 
   // Homepage post counts
-  featuredPostsCount: 3,
-  latestPostsCount: 0,
+  featuredPostsCount: 1,
+  latestPostsCount: 1,
 
   // Homepage projects
   homeProjects: {
     enabled: true,
-    count: 4,
+    count: 0,
   },
 
   // CTA (Call-to-Action) block for blog posts
@@ -95,7 +94,7 @@ export const SITE: SiteConfig = {
   // Get your configuration from https://giscus.app
   comments: {
     enabled: false, // Set to true after filling in the IDs below
-    repo: 'alec-c4/spaceship', // Your GitHub repository
+    repo: 'vivmit123/VMAstroWebsite', // Your GitHub repository
     repoId: '', // Get from https://giscus.app - enter repo above and copy the value
     category: 'General', // GitHub Discussions category name
     categoryId: '', // Get from https://giscus.app - select category and copy the value
