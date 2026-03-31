@@ -1,5 +1,4 @@
 // @ts-check
-import type { PluginOption } from 'vite';
 import { defineConfig } from 'astro/config';
 import svelte from '@astrojs/svelte';
 import mdx from '@astrojs/mdx';
@@ -20,7 +19,7 @@ import {
 
 import { SITE } from './site/config';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
+// const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // https://astro.build/config
 export default defineConfig({

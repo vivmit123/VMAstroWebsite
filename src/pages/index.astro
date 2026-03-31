@@ -22,9 +22,9 @@ const projects = (await getCollection('projects'))
   .sort((a, b) => a.data.order - b.data.order)
   .slice(0, SITE.homeProjects.count);
 
-const appearances = (await getCollection('appearances'))
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 3);
+// const appearances = (await getCollection('appearances'))
+//  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+//  .slice(0, 3);
 ---
 
 <Layout title="Welcome">
