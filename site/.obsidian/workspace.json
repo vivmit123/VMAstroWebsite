@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/appearances/_russian-appearance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_russian-appearance"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/appearances/_russian-appearance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for _russian-appearance"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/appearances/_russian-appearance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from _russian-appearance"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/appearances/_russian-appearance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of _russian-appearance"
             }
           }
         ]
@@ -185,9 +185,22 @@
   },
   "active": "7918d9b4fe5b9799",
   "lastOpenFiles": [
+    "content/appearances/_podcast.md",
+    "content/appearances/_astroconf.md",
+    "content/projects/_spaceship.md",
+    "content/projects/_planetaria.md",
+    "content/posts/_test-series-3.md",
+    "content/posts/_test-series-2.md",
+    "content/posts/_test-series-1.md",
+    "content/posts/_how-to-publish-posts.md",
+    "content/posts/_getting-started.md",
+    "content/posts/_first-post.md",
+    "content/posts/_draft-test-post.md",
+    "content/posts/_demo-english.md",
+    "content/posts/_configuring-spaceship.md",
+    "content/about/index.md",
     "assets/profile_photo.jpg",
     "assets/_profile_photo.png",
-    "content/about/index.md",
     "content/about/_index.md",
     "assets/Pasted image 20240219182911.png"
   ]
