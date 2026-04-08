@@ -89,4 +89,3 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
 });
-//npm list vite rollup @astrojs/tailwind
