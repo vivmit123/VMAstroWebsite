@@ -1,5 +1,5 @@
 {
-  "name": "spaceship",
+  "name": "vm-website",
   "compatibility_date": "2026-03-31", // Update to the day you deploy
   "assets": {
     "directory": "./dist",
